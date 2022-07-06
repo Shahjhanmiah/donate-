@@ -1,0 +1,58 @@
+body{
+
+    
+
+}
+
+.background-img{
+    background-image: url(images/donation4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 80%;
+
+}
+.donate{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    
+
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding:10px
+}
+.flex-contaniner{
+    display: flex;
+    flex-wrap: nowrap;
+
+}
+.flex-contaniner > div{
+    width: 150px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    box-sizing: border-box;
+    background-color:gainsboro;
+    margin-right: 50px;
+    padding: 20px;
+    
+
+
+
+}
+.color{
+    color: orange;
+    
+}
+
+
+.Donate{
+    text-align: center;
+    
+}
+
